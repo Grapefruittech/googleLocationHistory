@@ -11,6 +11,7 @@ Steps:
 - download kml files from google location history by 30 day intervals
 - parse into csv using python script
 - use data to create charts and run analysis in R
+- step 4: profit
 
 NorthEast Map
 ![Northeast Map](imgs/NorthEast.png)
