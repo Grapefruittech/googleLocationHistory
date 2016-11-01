@@ -11,5 +11,5 @@ plotMap <- function(df, coord, z, filename){
   
   
   ggsave(filename=paste(filename, ".png", sep=""))#, limitesize=FALSE)
-  
+  #is there no danger in creating a file too large?
 }
